@@ -1,1 +1,1 @@
-# quick
+https://sultanwebdeveloper.github.io/quick/
